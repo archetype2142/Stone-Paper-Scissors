@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "stoneps"
+    },
+    "stoneps": {
+      "applicationId": "mSSPmrTdNNQte4WK8IIMuZcmVNqiWjelEkMsYYEX"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+require('cloud/app.js');
+
